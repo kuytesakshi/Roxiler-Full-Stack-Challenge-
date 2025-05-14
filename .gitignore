@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# dotenv environment variables
+.env
+.env.*
+
+# Database
+*.sql
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+
+
+# React specific
+*.cache
+.yarn/
+.yarn-cache/
+coverage/
+.vite/
+
+
